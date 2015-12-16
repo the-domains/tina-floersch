@@ -1,0 +1,28 @@
+name: Tina Floersch
+favicon: null
+layout_spectrum: 0.03048893832601607
+typography_spectrum: 0.1937087755650282
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.39849689533002675
+  lightness: 0.5389180774800479
+  saturation: 0.6119318646378815
+  rhythmicContrast: 0.8232258355710655
+purpose: []
